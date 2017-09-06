@@ -149,7 +149,7 @@
 				B775391D1F606FB500A83B12 /* InningModel.swift */,
 				B77539191F606F9F00A83B12 /* WicketModel.swift */,
 			);
-			name = Models;
+			path = Models;
 			sourceTree = "<group>";
 		};
 		B775390B1F606F2000A83B12 /* Helpers */ = {
